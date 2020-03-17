@@ -1,0 +1,1 @@
+# vSphere-6.7-Rest-API---get-templates-in-content-library
